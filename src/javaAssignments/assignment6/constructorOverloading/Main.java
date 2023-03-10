@@ -1,5 +1,6 @@
 package javaAssignments.assignment6.constructorOverloading;
 
+//Create a class with two (overloaded) constructors. Using this, call the second constructor inside the first one.
 public class Main {
     public static void main(String[] args) {
         // Create an object using the first constructor

@@ -1,5 +1,8 @@
 package javaAssignments.assignment5.data;
 
+//Create a class in a package yourname.assignment.data containing an int and a char member variables that are not initialized,
+// add a method to print these variables.
+// Add another method in the same class with two local variables and print their values without initializing them.
 public class Data {
     private int myInt; // integer member variable not initialized
     private char myChar; // character member variable not initialized

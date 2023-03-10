@@ -5,50 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64516d70-c7c5-4cbd-800a-38bd8377b95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/SearchFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Pangram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/PingHost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/KycRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/data/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructor/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructorOverloading/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructorOverloading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/vampire/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/vampire/Vampire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Gerbil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Rodent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/array/basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/conditionalStatements/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/conditionalStatements/Ternary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/HashMaps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/HashSets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/LinkedListExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/QueueExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/StackExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataTypes/Primitive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataTypes/TypeConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/exceptions/Basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/lambda/lambdaExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/loops/DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/loops/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/loops/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/regex/RegExExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/strings/basics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/threads/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core-java/threads/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
