@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64516d70-c7c5-4cbd-800a-38bd8377b95b" name="Changes" comment="" />
+    <list default="true" id="64516d70-c7c5-4cbd-800a-38bd8377b95b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MU14d9eHYRcRjM6eZGQG84oASm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,13 +43,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.dataStructures.LinkedListExample" />
+  <component name="RunManager" selected="Application.javaAssignments.assignment3.Main">
+    <configuration name="javaAssignments.assignment3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment3.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.dataStructures.*" />
+          <option name="PATTERN" value="javaAssignments.assignment3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.threads.Main" />
+    <configuration name="javaAssignments.assignment4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment4.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.threads.*" />
+          <option name="PATTERN" value="javaAssignments.assignment4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.threads.MyRunnable" />
+    <configuration name="javaAssignments.assignment6.constructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment6.constructor.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.threads.*" />
+          <option name="PATTERN" value="javaAssignments.assignment6.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.regex.RegExExample" />
+    <configuration name="javaAssignments.assignment6.vampire.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment6.vampire.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.regex.*" />
+          <option name="PATTERN" value="javaAssignments.assignment6.vampire.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.lambda.lambdaExample" />
+    <configuration name="javaAssignments.assignment7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment7.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.lambda.*" />
+          <option name="PATTERN" value="javaAssignments.assignment7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.MyRunnable" />
-        <item itemvalue="Application.lambdaExample" />
-        <item itemvalue="Application.RegExExample" />
+        <item itemvalue="Application.javaAssignments.assignment3.Main" />
+        <item itemvalue="Application.javaAssignments.assignment7.Main" />
+        <item itemvalue="Application.javaAssignments.assignment4.Main" />
+        <item itemvalue="Application.javaAssignments.assignment6.vampire.Main" />
+        <item itemvalue="Application.javaAssignments.assignment6.constructor.Main" />
       </list>
     </recent_temporary>
   </component>
