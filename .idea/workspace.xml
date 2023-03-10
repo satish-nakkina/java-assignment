@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64516d70-c7c5-4cbd-800a-38bd8377b95b" name="Changes" comment="" />
+    <list default="true" id="64516d70-c7c5-4cbd-800a-38bd8377b95b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/SearchFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/PingHost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/KycRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/data/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructor/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructorOverloading/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/constructorOverloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/vampire/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment6/vampire/Vampire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Gerbil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/Rodent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/array/basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/conditionalStatements/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/conditionalStatements/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/HashMaps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/HashSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/LinkedListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/QueueExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataStructures/StackExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataTypes/Primitive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/dataTypes/TypeConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/exceptions/Basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/lambda/lambdaExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/loops/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/loops/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/loops/While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/regex/RegExExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/strings/basics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/threads/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/threads/MyRunnable.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +69,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MU14d9eHYRcRjM6eZGQG84oASm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,13 +82,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.dataStructures.LinkedListExample" />
+  <component name="RunManager" selected="Application.javaAssignments.assignment3.Main">
+    <configuration name="javaAssignments.assignment3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment3.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.dataStructures.*" />
+          <option name="PATTERN" value="javaAssignments.assignment3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.threads.Main" />
+    <configuration name="javaAssignments.assignment4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment4.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.threads.*" />
+          <option name="PATTERN" value="javaAssignments.assignment4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.threads.MyRunnable" />
+    <configuration name="javaAssignments.assignment6.constructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment6.constructor.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.threads.*" />
+          <option name="PATTERN" value="javaAssignments.assignment6.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.regex.RegExExample" />
+    <configuration name="javaAssignments.assignment6.vampire.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment6.vampire.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.regex.*" />
+          <option name="PATTERN" value="javaAssignments.assignment6.vampire.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.array.lambda.lambdaExample" />
+    <configuration name="javaAssignments.assignment7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment7.Main" />
       <module name="core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.array.lambda.*" />
+          <option name="PATTERN" value="javaAssignments.assignment7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.MyRunnable" />
-        <item itemvalue="Application.lambdaExample" />
-        <item itemvalue="Application.RegExExample" />
+        <item itemvalue="Application.javaAssignments.assignment3.Main" />
+        <item itemvalue="Application.javaAssignments.assignment7.Main" />
+        <item itemvalue="Application.javaAssignments.assignment4.Main" />
+        <item itemvalue="Application.javaAssignments.assignment6.vampire.Main" />
+        <item itemvalue="Application.javaAssignments.assignment6.constructor.Main" />
       </list>
     </recent_temporary>
   </component>
