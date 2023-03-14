@@ -5,11 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64516d70-c7c5-4cbd-800a-38bd8377b95b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment10/SList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment10/SListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment10/SNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment11/CharacterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment12/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment12/StudentAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycle/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycle/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycle/Tricycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycle/Unicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycleFactory/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycleFactory/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycleFactory/CycleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycleFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycleFactory/Tricycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/cycleFactory/Unicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/CombinedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/DerivedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/Interface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/MyBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/interfaces/MyMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment8/ExceptionThrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment8/MaxValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment8/NegativeValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/assignment9/PatternMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaAssignments/lambda_streams/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment5/data/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment5/data/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment5/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment5/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment5/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment5/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment6/constructor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment6/constructor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment6/constructorOverloading/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment6/constructorOverloading/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment6/vampire/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment6/vampire/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment7/Gerbil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment7/Hamster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment7/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core-java/javaAssignments/assignment7/Rodent.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment5/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment5/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment7/Gerbil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/rodent/Gerbil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment7/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/rodent/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/rodent/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment7/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/rodent/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaAssignments/assignment7/Rodent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaAssignments/assignment7/rodent/Rodent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +73,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -39,11 +94,86 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/core-java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.javaAssignments.assignment3.Main">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\core-java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\core-java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.javaAssignments.assignment12.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment10.Main" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAssignments.assignment10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaAssignments.assignment10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment10.Main" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAssignments.assignment10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaAssignments.assignment11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment11.Main" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAssignments.assignment11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaAssignments.assignment12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment12.Main" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAssignments.assignment12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaAssignments.assignment1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment1.Main" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaAssignments.assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="javaAssignments.assignment3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment3.Main" />
       <module name="core-java" />
@@ -57,65 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaAssignments.assignment4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment4.Main" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaAssignments.assignment4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaAssignments.assignment6.constructor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment6.constructor.Main" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaAssignments.assignment6.constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaAssignments.assignment6.vampire.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment6.vampire.Main" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaAssignments.assignment6.vampire.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaAssignments.assignment7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaAssignments.assignment7.Main" />
-      <module name="core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaAssignments.assignment7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaAssignments.assignment12.Main" />
+        <item itemvalue="Application.javaAssignments.assignment11.Main" />
         <item itemvalue="Application.javaAssignments.assignment3.Main" />
-        <item itemvalue="Application.javaAssignments.assignment7.Main" />
-        <item itemvalue="Application.javaAssignments.assignment4.Main" />
-        <item itemvalue="Application.javaAssignments.assignment6.vampire.Main" />
-        <item itemvalue="Application.javaAssignments.assignment6.constructor.Main" />
+        <item itemvalue="Application.javaAssignments.assignment1.Main" />
+        <item itemvalue="Application.javaAssignments.assignment10.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -12,6 +12,7 @@ public class Singleton {
 
         Singleton instance = new Singleton();
         instance.myString = str;
+
         return instance;
     }
 
